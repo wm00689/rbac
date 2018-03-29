@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "wm00689\\assets": "assets/",
+            "wm00689\\assets\\": "assets/",
             "wm00689\\rbac\\": "rbac/"
         }
     }
